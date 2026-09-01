@@ -1,77 +1,150 @@
 # Hi, I'm Sarin Kumar 👋
-### Cloud & Platform Engineer | AWS | Kubernetes | DevOps | Python | GenAI Integration
 
-I am a Cloud & Platform Engineer focused on building, deploying, automating, and troubleshooting modern cloud-native applications.
-My current focus is on designing production-style DevOps environments using AWS, Docker, Kubernetes, Jenkins, Linux, and Python — with Terraform/IaC and AI platform engineering as my active learning focus.
+### Cloud & Platform Engineer | AWS | Kubernetes | DevOps | Python
+
+I'm a Cloud & Platform Engineer focused on building, automating, deploying, monitoring, and troubleshooting cloud-native infrastructure and applications.
+
+I work with AWS, Docker, Kubernetes, Terraform, Jenkins, Linux, Python, and modern CI/CD practices, with a strong interest in Platform Engineering, SRE, automation, and Agentic AI for DevOps.
+
+---
 
 ## 🚀 What I'm Working On
-- Building production-style applications on AWS
-- Containerizing applications using Docker
-- Deploying and managing workloads on Kubernetes
-- Building CI/CD pipelines using Jenkins and GitHub Actions
-- Improving Linux, networking, monitoring, and troubleshooting skills
-- Building a multi-LLM API platform to deepen my GenAI integration work
-- Learning Terraform and Infrastructure as Code fundamentals
-- Exploring Agentic AI for DevOps and Platform Engineering
 
-## 🛠️ Technologies
+* Building production-style cloud infrastructure on AWS
+* Containerizing applications using Docker
+* Deploying and managing workloads on Kubernetes
+* Automating infrastructure using Terraform
+* Building CI/CD pipelines with Jenkins and GitHub Actions
+* Improving Linux, networking, monitoring, and production troubleshooting skills
+* Exploring Agentic AI for DevOps and Platform Engineering
+
+---
+
+## 🛠️ Tech Stack
 
 **Cloud**
-- AWS
+
+`AWS`
 
 **Containers & Orchestration**
-- Docker
-- Kubernetes
+
+`Docker` · `Kubernetes`
+
+**Infrastructure as Code**
+
+`Terraform`
 
 **CI/CD**
-- Jenkins
-- GitHub Actions
 
-**Monitoring**
-- Prometheus
-- Grafana
+`Jenkins` · `GitHub Actions`
 
-**Generative AI**
-- LLM API Integration (Llama, Gemini, DeepSeek, Qwen)
-- AI-enabled Backend Services
+**Monitoring & Observability**
+
+`Prometheus` · `Grafana`
 
 **Languages & Scripting**
-- Python
-- Bash / Shell
-- JavaScript
+
+`Python` · `Bash` · `Shell Scripting` · `JavaScript`
 
 **Operating Systems**
-- Linux
+
+`Linux`
 
 **Version Control**
-- Git
-- GitHub
 
-## 🔨 Featured Projects
+`Git` · `GitHub`
 
-### [Production AWS Kubernetes Platform](#) *(In Progress)*
-Production-style three-tier application being deployed using Docker, Kubernetes, AWS, CI/CD, monitoring, and logging.
+---
 
-### [DevOps CI/CD Platform](#) *(In Progress)*
-End-to-end CI/CD pipeline implementing build, testing, containerization, security checks, deployment, and rollback.
+## 🔨 Projects in Progress
 
-### [DevOps Troubleshooting Lab](#) *(In Progress)*
-Real-world troubleshooting scenarios covering Linux, Docker, Kubernetes, networking, CI/CD, databases, and cloud infrastructure.
+### ☁️ Production AWS Kubernetes Platform
 
-### [Multi-LLM API Platform](#) *(Planned)*
-A backend gateway unifying multiple LLM providers (Llama, Gemini, DeepSeek, Qwen) behind a common interface, with provider abstraction, error handling, and fallback routing.
+Building a production-style three-tier application using:
 
-### [Agentic AI DevOps Assistant](#) *(Planned)*
-AI-powered DevOps assistant capable of analyzing infrastructure problems, executing tools, and assisting with troubleshooting.
+`AWS` · `Docker` · `Kubernetes` · `Terraform` · `Jenkins` · `Prometheus` · `Grafana`
+
+The project will demonstrate containerization, infrastructure automation, Kubernetes deployment, CI/CD, monitoring, logging, and production troubleshooting.
+
+### 🔄 DevOps CI/CD Platform
+
+Building an end-to-end CI/CD pipeline covering:
+
+`Source Control → Build → Test → Docker Image → Security Checks → Deployment → Verification → Rollback`
+
+### 🛠️ DevOps Troubleshooting Lab
+
+Documenting real-world troubleshooting scenarios involving:
+
+* Linux
+* Docker
+* Kubernetes
+* Networking
+* Jenkins
+* CI/CD
+* Databases
+* AWS
+* Application deployments
+
+Each scenario will include:
+
+`Problem → Investigation → Commands → Root Cause → Solution → Prevention`
+
+### 🤖 Agentic AI DevOps Assistant
+
+Exploring an AI-powered DevOps assistant capable of:
+
+* Analyzing infrastructure issues
+* Understanding logs and errors
+* Suggesting troubleshooting commands
+* Calling infrastructure tools
+* Processing tool results
+* Assisting engineers with root-cause analysis
+
+---
 
 ## 📚 Currently Learning
-- Terraform and Infrastructure as Code
-- Advanced Kubernetes troubleshooting
-- AWS architecture
-- Kubernetes security
-- Observability
-- Platform Engineering
-- Agentic AI
+
+* Advanced Kubernetes troubleshooting
+* AWS architecture and networking
+* Terraform best practices
+* Kubernetes security
+* Observability and monitoring
+* Platform Engineering
+* Site Reliability Engineering
+* Agentic AI
+* DevOps automation
+
+---
 
 ## 🎯 Career Focus
-I am building toward Cloud, DevOps, Platform Engineering, and AI Platform Engineering roles where I can work on scalable infrastructure, automation, reliability, and AI-enabled cloud-native platforms.
+
+I'm building toward roles in:
+
+**Cloud Engineering · DevOps Engineering · Platform Engineering · Site Reliability Engineering**
+
+My goal is to work on scalable cloud infrastructure, automation, CI/CD, Kubernetes platforms, reliability, observability, and production troubleshooting.
+
+---
+
+## 📌 Current Focus
+
+```text
+AWS
+   ↓
+Terraform
+   ↓
+Docker
+   ↓
+Kubernetes
+   ↓
+CI/CD
+   ↓
+Monitoring
+   ↓
+Troubleshooting
+   ↓
+Automation
+```
+
+> Build it. Automate it. Deploy it. Monitor it. Troubleshoot it. Improve it.
